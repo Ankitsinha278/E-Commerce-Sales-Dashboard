@@ -1,6 +1,6 @@
 ## 📊 E-commerce Sales Dashboard (Excel)
 This project presents an interactive and visually compelling Sales Dashboard developed entirely in Microsoft Excel. Tailored for e-commerce businesses, it enables users to monitor key performance indicators (KPIs), uncover insights from sales data, and make informed decisions based on regional trends, product performance, and time-based analysis.
-
+![image alt](https://github.com/Ankitsinha278/E-Commerce-Sales-Dashboard/blob/7e3e6726111aeaedc412ee257c6722dc51b6b826/Screenshot%20(230).png)
 ### 🎯 Objective
 The main goal of this dashboard is to provide stakeholders with an at-a-glance view of their business’s sales performance without requiring advanced tools like Power BI or Tableau. It leverages Excel’s powerful capabilities—Pivot Tables, slicers, formulas, and charting tools—to transform raw sales data into actionable insights.
 
